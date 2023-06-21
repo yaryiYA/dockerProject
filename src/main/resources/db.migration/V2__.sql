@@ -1,0 +1,2 @@
+--INSERT INTO employee (id, first_name)
+--VALUES ('0eb2897e-77a1-46a6-adf7-360f17425d97', 'ivan');
